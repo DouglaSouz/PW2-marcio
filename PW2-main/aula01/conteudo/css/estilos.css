@@ -1,0 +1,14 @@
+nav{
+    background-color: rgb(45, 0, 209);
+    color: white;
+}
+
+meunome{
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
